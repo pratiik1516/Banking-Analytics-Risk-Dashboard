@@ -66,23 +66,13 @@ To answer key **banking and financial questions** such as:
 
 ## 📈 Analysis Performed  
 
-### 🔹 Basic Metrics  
-- Unique clients in the banking system.  
-- Total loan amounts segmented by type (bank loan, business lending, credit card).  
-- Total deposits across account types.  
-- Processing fees generated per client.  
-
-### 🔹 Intermediate Analysis  
-- Loan distribution by income band.  
-- Loan amounts grouped by nationality.  
-- Engagement length of clients with the bank.  
-- Balance contributions from checking vs. savings vs. foreign accounts.  
-
-### 🔹 Advanced Insights  
-- Identification of **high-risk client segments**.  
-- Comparison between private vs. public bank client counts.  
-- Fee impact on overall loan profitability.  
-- Detection of top contributing nationalities to bank loan portfolios.  
+- Identified unique clients and their engagement duration with the bank.  
+- Calculated loan distribution across bank loans, business lending, and credit cards.  
+- Analyzed deposits across checking, savings, and foreign currency accounts.  
+- Segmented loan amounts by income bands and nationalities.  
+- Measured processing fees generated from different loan volumes.  
+- Compared client counts across private vs. public banks.  
+- Highlighted long-term vs. short-term client engagement trends.  
 
 ---
 
@@ -104,4 +94,3 @@ This project demonstrates how **Power BI + Python** can:
 - Provide **decision-ready KPIs** on clients, deposits, and loans.  
 - Enhance visibility into risk through engagement and demographic segmentation.  
 - Support banking institutions in **credit approvals, strategy building, and revenue tracking**.  
-
