@@ -78,7 +78,10 @@ To answer key **banking and financial questions** such as:
 ## 📷 Dashboard Screenshots
 
 
-![]()  
+![](https://github.com/pratiik1516/Banking-Analytics-Risk-Dashboard/blob/main/HOME.png)
+![](https://github.com/pratiik1516/Banking-Analytics-Risk-Dashboard/blob/main/LOAN%20ANALYSIS.png)  
+![](https://github.com/pratiik1516/Banking-Analytics-Risk-Dashboard/blob/main/DEPOSIT%20ANALYSIS.png)  
+![](https://github.com/pratiik1516/Banking-Analytics-Risk-Dashboard/blob/main/SUMMARY.png)  
 
 
 ---
