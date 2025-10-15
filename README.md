@@ -75,6 +75,13 @@ To answer key **banking and financial questions** such as:
 - Highlighted long-term vs. short-term client engagement trends.  
 
 ---
+## 📷 Dashboard Screenshots
+
+
+![]()  
+
+
+---
 
 ## 📌 Key Findings  
 
